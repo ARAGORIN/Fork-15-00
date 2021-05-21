@@ -45,5 +45,33 @@ ul {
 /* Shakhzod end */
 
 /* Javoxir start */
-
+.Javoxir__container{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 134px
+}
+.javohir__cards-txt{
+  color:  #692340;
+  font-size: 40px;
+  margin-top: 43px;
+}
+.javohir__cards-title{
+  max-width: 400px;
+  width: 100%;
+  color: #692340;
+  margin-top: 27px;
+}
+.javohir__cards-div{
+  margin-top: 12px;
+  padding-left: 25px;
+}
+.cards__txt{
+  color: #692340;
+}
+.cards__list{
+  margin-top: 17px;
+}
+.crads__link{
+  color: #692340;
+}
 /* Javoxir end */
